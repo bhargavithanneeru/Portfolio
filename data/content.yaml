@@ -1,0 +1,16 @@
+########################## hero area ##########################
+hero:
+  title: "I'm Bhargavi Thanneeru"
+
+  # animated text loop
+  occupations:
+    - "Web Developer"
+    - "Software Engineer"
+    - "Data Scientist"
+
+  # hero background image
+  bg_image: "/images/background.jpg"
+  # optional mobile breakpoint background
+  mobile_bg_image: "/images/mobile-background.jpg"
+
+  ########################### About ##################################
