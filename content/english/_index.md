@@ -30,14 +30,18 @@ features:
   - title: "Graduate Teaching Assistant | Indiana University Bloomington, USA"
     content: "August 2023 - December 2023"
     bulletpoints:
-      - "Facilitate office hours and lab sessions to engage with students, aiding in understanding complex concepts, providing grading, and offering constructive feedback."
-      - "Collaborate with a diverse team to create comprehensive teaching materials, assessments, and interactive resources, resulting in a significant increase in course completion rates."
+      - "Led lab sessions in Python, guiding students through complex coding concepts including data structures, algorithms, and computational analysis for Applied Algorithms course ."
+      - "Developed lab assignments, code examples, and assessments in Python focused on simulation, optimization, and procedural problem-solving"
+      - "Instructed weekly R lab sessions focused on statistical computing, data visualization, predictive modeling, and communicating analytical insights for  Statistical Analysis for Effective Decision Making course."
+      - "Demonstrated proficiency in R through introductory coursework and teaching R labs as a Graduate Teaching Assistant."
 
   - title: "Software Engineer - Data Engineering | Tiger Analytics, Hyderabad, India"
     content: "August 2021 - August 2022"
     bulletpoints:
-      - "Developed ETL pipelines which collect raw data and converts into useful insights for further business analysis using Azure databricks and ETL tools."
-      - "Worked on Power BI to generate reports by connecting Azure databricks to Power BI."
+      - "Developed Azure data pipelines using PySpark and Databricks to ETL large datasets for business analytics applications."
+      - "Leveraged tools like Azure Synapse Analytics to process and gain insights from huge volumes of data on the Azure cloud platform."
+      - "Created interactive Power BI and Tableau dashboards to visualize key metrics."
+      - "Skilled in Big Data Hadoop, Spark, AWS and Hive."
 
   - title: "Data Science Intern | Techimax IT Services Pvt Ltd, Hyderabad, India"
     content: "June 2019 - December 2019"
