@@ -12,8 +12,8 @@ banner:
   button2:
     enable: true
     label: "CV"
-    link: "https://drive.google.com/file/d/1yQKV7FmzPksNPnDAp4yiuGpWLqlPugYc/view?usp=sharing"
-
+    link: "https://drive.google.com/file/d/1yQKV7FmzPksNPnDAp4yiuGpWLqlPugYc/view?usp=sharing
+"
 # Features
 # Features
 features:
