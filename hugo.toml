@@ -1,4 +1,0 @@
-baseURL = 'https://bhargavithanneeru.github.io/Portfolio/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'port-hugo'
