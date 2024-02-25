@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Transforming Insights into Action: Bhargavi Thanneeru, Data Enthusiast"
-  content: "Welcome! I'm Bhargavi Thanneeru, an explorer in the realm of data science, passionate about unraveling insights and driving innovation. With a Bachelor's in Computer Science and a fervent dedication to learning, I'm committed to harnessing the power of data to tackle complex challenges and create meaningful impact. Let's embark on a journey of discovery together!"
+  content: "Welcome! I'm Bhargavi Thanneeru, an explorer in the realm of data science, passionate about unraveling insights and driving innovation. With a Masters in Data Science and Bachelor's in Computer Science Background, I'm committed to harnessing the power of data to tackle complex challenges and create meaningful impact. Let's embark on a journey of discovery together!"
   image: "/images/female.jpg"
   button:
     enable: true
